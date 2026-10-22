@@ -23,35 +23,23 @@ This repository documents my **day-by-day learning, coding practice, projects, a
 ### 🗄️ Database
 - SQL
 - MySQL
-- PostgreSQL
+- MongoDB
 - CRUD Operations
 - Joins
 - Relationships
 - Database Design
 
 ### ⚙️ Backend
-- JDBC
-- Servlets
-- JSP
-- MVC
-- Spring
-- Spring Boot
-- Spring MVC
+- Node.js
+- Express.js
 - REST APIs
-- Hibernate
-- JPA
-- Spring Data JPA
-- Authentication & Authorization
-- Microservices
+- Authentication & Security
 
 ### 🛠️ Tools & Technologies
 - VS Code
 - Git
 - GitHub
-- Maven
-- Postman
 - Docker
-- APIs
 - Deployment
 - CI/CD
 - AWS
@@ -70,6 +58,6 @@ I will be updating this repository **day by day** with:
 
 ## 🎯 Goal
 
-My goal is to master **Java Full Stack Development with AI Integration** and eventually build complete, real-world applications from frontend to backend and database.
+My goal is to master **Full Stack Development with AI Integration** and eventually build complete, real-world applications from frontend to backend and database.
 
 **Learn → Code → Practice → Build → Repeat.**
